@@ -1,0 +1,14 @@
+# Raw experimental data
+data/
+
+# Generated outputs
+plots/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor/system files
+.DS_Store
+Thumbs.db
